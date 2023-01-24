@@ -131,7 +131,8 @@ Write HTML and CSS code vfor designing book cover page and execute them.
 ```
 
 ## Output:
-![OUTPUT](./out 1.png)
+![OUTPUT]![image](https://user-images.githubusercontent.com/119393019/214295958-4a2c6d8b-ef08-4c87-87a4-71db3deecc93.png)
+
 
 ## HTML Validator
 ![HTML Validator](./valid1.png)
